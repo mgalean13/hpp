@@ -67,9 +67,9 @@ HPP_CATALOG_PATH = "HPP_Catalog_Importer.xlsx"
 PRODUCTS_EXPORT_PATH = "products_export.csv"
 REPORT_PATH = "productos_a_borrar.csv"
 
-WC_URL = os.environ.get("WC_URL", "https://humanitysplagueprod.com")
-WC_CONSUMER_KEY = os.environ.get("WC_CONSUMER_KEY", "ck_bd0a4100516c5429b0648c835919d291c7e568b3")
-WC_CONSUMER_SECRET = os.environ.get("WC_CONSUMER_SECRET", "cs_01dd699e0277d29a6c491f7c1137515b2c1c2ad2")
+WC_URL = os.environ.get("WC_URL", "https://url.com")
+WC_CONSUMER_KEY = os.environ.get("WC_CONSUMER_KEY", "12345")
+WC_CONSUMER_SECRET = os.environ.get("WC_CONSUMER_SECRET", "12345")
 
 # Hojas del Excel que NO son catálogo real y deben ignorarse
 HOJAS_A_IGNORAR = {"test card numbers"}
