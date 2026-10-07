@@ -1,6 +1,6 @@
-# Humanity's Plague Productions — E-commerce Automation Toolkit
+# HPP — E-commerce Automation Toolkit
 
-Python automation toolkit developed to support the **Humanity's Plague Productions (HPP)** WooCommerce catalog and its ongoing e-commerce operations.
+Python automation toolkit developed to support the **Humanity's Plague Productions (HPP)** american label, WooCommerce catalog and its ongoing e-commerce operations.
 
 The repository focuses on a practical automation problem: managing a large underground-music catalog while keeping **product data, artwork, metadata, SEO and WooCommerce state** consistent with a controlled source of truth.
 
